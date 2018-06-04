@@ -82,9 +82,9 @@ In English we start with "one", "two", but "three" can stretch out a bit and "se
 
 ### What is F#
 
-* Functional language based on OCaml developed by Microsoft Research
-  * Don Syme and his team
-  * influenced by C# and Haskell
+* F# is a mature, open source, cross-platform, functional-first programming language
+  * Developed by Microsoft Research (Don Syme and his team)
+  * Based on OCaml, influenced by C# and Haskell
 <br>
 <br>  
 - History
@@ -94,18 +94,11 @@ In English we start with "one", "two", but "three" can stretch out a bit and "se
   * 2017: .NET Core includes F# support by default
 
 ---
-```
--------------------------------------------
-Changes in F# Setup
-We have changed the way that you acquire F#:
-If you install a Workload that requires .NET Core 2.0,
-it will also install F# language support by default.
-The .NET Core, ASP.NET, and Azure workloads now do this.
-The "F# language support" checkbox in the .NET desktop development,
-Data storage and processing, and Data science and analytical applications
-workloads have been renamed to "F# desktop support".
---------------------------------------------
-```
+
+### .NET Core SDK includes the F# compiler and F# core library
+
+<img src="images/NETCoreSDK_includes_the_Fsharp.png" style="background: transparent; border-style: none; float: right"  />
+
 ***
 
 ### Why use F#

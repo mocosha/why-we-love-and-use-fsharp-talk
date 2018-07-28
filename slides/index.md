@@ -1,6 +1,6 @@
 - title : Why we love and use F#
 - description : Introduction to F#
-- author : Dragan Jovanović & Branimir Momčilović
+- author : Branimir Momčilović & Dragan Jovanović
 - theme : night
 - transition : default
 
@@ -21,29 +21,25 @@ Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)
 
 * Motivation: Should I learn a new programming language?
 * Why F#
- * F# history
- * F# language overview
- * Community, libraries
- * Real world examples, demos
-* How to start?
-
----
-
-#### Thanks to:  
-* [F# for fun and profit by Scott Wlaschin](https://fsharpforfunandprofit.com/)
-* [Beginning F# 4.0 by Robert Pickering and Kit Eason](https://www.apress.com/gp/book/9781484213759)  
-* [How to (and not to) give a talk on F# by Ted Neward](http://blogs.tedneward.com/post/how-to-and-not-to-give-a-talk-on-f/)
-
-' Thanks these guys for inspiring us
+ * The language itself is amazing
+ * The library/framework
+ * The tooling capabilities (IDE integration)
+ * Community (samples, 3rd-party libraries)
+* Real world examples, demos
 
 ***
 
 ### Why I should learn a new programming language?
 
+<img src="images/The_pragmatic_programmer.jpg" style="background: transparent; border-style: none; float: right; padding-left:10px"  />
+
 *From The Pragmatic Programmer, Tip #8*  
 
 "Invest Regularly in Your Knowledge Portfolio":  
-Learn at least one new language every year. Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut. Additionally, learning many languages is far easier now, thanks to the wealth of freely available software on the Internet  
+Learn at least one new language every year. Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut. Additionally, learning many languages is far easier now, thanks to the wealth of freely available software on the Internet.  
+
+' The Pragmatic Programmer, From Journeyman to Master by Andrew Hunt and David Thomas 1999
+' Ideas: Care About Your Craft, Don’t Live with Broken Windows, Use Tracer Bullets to Find the Target, Orthogonality
 
 ' https://en.wikipedia.org/wiki/Turing_completeness https://en.wikipedia.org/wiki/Lambda_calculus
 ' In computability theory, a system of data-manipulation rules is said to be Turing complete or computationally universal if it can be used to simulate any Turing machine. A classic example is lambda calculus. A closely related concept is that of Turing equivalence – two computers P and Q are called equivalent if P can simulate Q and Q can simulate P.
@@ -78,6 +74,16 @@ The difference, says Dehaene, is how the words sound in your head. The Chinese w
 
 In English we start with "one", "two", but "three" can stretch out a bit and "seven" is a real slower-downer, being two syllables long, so the English number-words take a little longer, a third of a second each.
 
+[Chinese (Mandarin) - Numbers (1-10)](
+https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
+
+---
+
+### Learn, learn and learn
+
+<img src="images/Lenin_learn_poster.jpg" style="background: transparent; border-style: none;"  />
+
+
 ***
 
 ### What is F#
@@ -98,6 +104,17 @@ In English we start with "one", "two", but "three" can stretch out a bit and "se
 ### .NET Core SDK includes the F# compiler and F# core library
 
 <img src="images/NETCoreSDK_includes_the_Fsharp.png" style="background: transparent; border-style: none; float: right"  />
+
+***
+
+### Tooling
+
+* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
+* Visual Studio
+
+---
+<img src="images/ionide-fsharp.gif" style="background: transparent; border-style: none;"  />
+---
 
 ***
 
@@ -145,6 +162,37 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ***
 
+### The F# community is great
+
+#### Resources 
+* [F# Software Foundation](https://fsharp.org/)
+* [F# for fun and profit by Scott Wlaschin](https://fsharpforfunandprofit.com/) 
+* [F# style guide](http://aka.ms/fsharpstyleguide)
+  
+---
+
+#### Projects 
+* [FAKE](https://fake.build/) - F# Make
+* [Paket](https://fsprojects.github.io/Paket/)
+* [Fable](http://fable.io/)
+* [Giraffe](https://github.com/giraffe-fsharp/Giraffe)
+* [SAFE stack](https://safe-stack.github.io/)
+* [Ionide](http://ionide.io/)
+* [FsReveal](http://fsprojects.github.io/FsReveal/)
+
+***
+
+### Thanks to
+* [F# for fun and profit by Scott Wlaschin](https://fsharpforfunandprofit.com/)
+* [Beginning F# 4.0 by Robert Pickering and Kit Eason](https://www.apress.com/gp/book/9781484213759)  
+* [How to (and not to) give a talk on F# by Ted Neward](http://blogs.tedneward.com/post/how-to-and-not-to-give-a-talk-on-f/)
+
+' Thanks these guys for inspiring us
+
+---
+
 ### Thank you!
 
+* Questions?
 * https://github.com/mocosha
+* Thank you again

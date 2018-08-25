@@ -1,4 +1,4 @@
-- title : Why we love and use F#
+- title : Why you should learn F#
 - description : Introduction to F#
 - author : Branimir Momčilović & Dragan Jovanović
 - theme : night
@@ -6,7 +6,7 @@
 
 ***
 
-## Why we love and use F#
+## Why you should learn F#
 
 <br />
 <br />
@@ -111,6 +111,17 @@ https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
 
 * [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
 * Visual Studio
+* Visual Studio for Mac
+* JetBrains Rider
+
+---
+
+### Hello world
+* [Download .NET Core SDK](https://www.microsoft.com/net/download)
+* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
+* run dotnet new
+
+' .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
 
 ---
 <img src="images/ionide-fsharp.gif" style="background: transparent; border-style: none;"  />

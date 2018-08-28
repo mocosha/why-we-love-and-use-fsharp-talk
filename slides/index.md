@@ -25,7 +25,6 @@ Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)
  * The library/framework
  * The tooling capabilities (IDE integration)
  * Community (samples, 3rd-party libraries)
-* Real world examples, demos
 
 ***
 

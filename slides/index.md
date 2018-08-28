@@ -105,29 +105,18 @@ https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
 
 <img src="images/NETCoreSDK_includes_the_Fsharp.png" style="background: transparent; border-style: none; float: right"  />
 
-***
-
-### Tooling
-
-* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
-* Visual Studio
-* Visual Studio for Mac
-* JetBrains Rider
-
 ---
 
-### Hello world
+### .NET Core
+
 * [Download .NET Core SDK](https://www.microsoft.com/net/download)
-* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
-* run dotnet new
+* Start hacking...
+ * F# interactive
+ * FSX file(s)
 
 ' .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
 
 ---
-<img src="images/ionide-fsharp.gif" style="background: transparent; border-style: none;"  />
----
-
-***
 
 ### Why use F#
 
@@ -160,16 +149,38 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ---
 
-### Demo
+### Examples
 
-    // UPDATE
+***
 
-    let update (msg:Msg) (model:Model) =
-        match msg with
-        | Increment -> model + 1
-        | Decrement -> model - 1
+### Tooling
+
+* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
+* Visual Studio
+* Visual Studio for Mac
+* JetBrains Rider
 
 ---
+
+<img src="images/ionide-fsharp.gif" style="background: transparent; border-style: none;"  />
+
+---
+
+### Hello World project
+
+* [VS Code](https://code.visualstudio.com/) + [Ionide](http://ionide.io/)
+* dotnet new console -lang F#
+* F# console structure: Open, let, etc.
+* Build & publish   
+
+---
+
+
+### Demo checklist
+* F# interactive
+* FSX scripts
+* F# projects (.fsproj)
+* Basic syntax
 
 ***
 

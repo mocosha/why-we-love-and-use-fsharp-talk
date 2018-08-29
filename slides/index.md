@@ -25,6 +25,7 @@ Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)
  * The library/framework
  * The tooling capabilities (IDE integration)
  * Community (samples, 3rd-party libraries)
+* Questions?
 
 ***
 
@@ -198,12 +199,19 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 #### Projects 
 * [FAKE](https://fake.build/) - F# Make
+' A DSL FOR BUILD TASKS AND MORE
 * [Paket](https://fsprojects.github.io/Paket/)
+' Paket is a dependency manager for .NET and mono projects, which is designed to work well with NuGet packages and also enables referencing files directly from Git repositories or any HTTP resource. It enables precise and predictable control over what packages the projects within your application reference.
 * [Fable](http://fable.io/)
+' Fable is an F# to JavaScript compiler powered by Babel, designed to produce readable and standard code. 
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe)
+' A functional ASP.NET Core micro web framework for building rich web applications.
 * [SAFE stack](https://safe-stack.github.io/)
+' SAFE is an application development stack that brings several technologies together into a single, coherent stack for type-safe, flexible, web-enabled applications that can be written almost entirely in F#.
 * [Ionide](http://ionide.io/)
+' A Visual Studio Code package suite for cross platform F# development.
 * [FsReveal](http://fsprojects.github.io/FsReveal/)
+' FsReveal allows you to write beautiful slides in Markdown and brings C# and F# to the reveal.js web presentation framework.
 
 ***
 

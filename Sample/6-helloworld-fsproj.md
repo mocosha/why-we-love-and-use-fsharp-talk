@@ -22,6 +22,7 @@ A binding associates an identifier with a value or function. You use the let key
 
 ## printfn
 Prints formatted output to stdout, adding a newline.
+https://en.wikipedia.org/wiki/Printf_format_string
 
 ## Console
 Represents the standard input, output, and error streams for console applications.

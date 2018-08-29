@@ -98,6 +98,10 @@ https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
   * 2010: F# is baked into VS 2010
   * 2017: .NET Core includes F# support by default
 
+' F# is a functional programming language that makes it easy to write correct and maintainable code.
+
+' F# programming primarily involves defining types and functions that are type-inferred and generalized automatically. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming.
+
 ---
 
 ### .NET Core SDK includes the F# compiler and F# core library

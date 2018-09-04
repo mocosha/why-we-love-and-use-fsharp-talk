@@ -32,6 +32,7 @@ Represents the standard input, output, and error streams for console application
 > dotnet publish -c Release -o publish
 > dotnet publish\helloworld.dll
 
+' https://hub.docker.com/r/microsoft/dotnet/
 > docker run -it --name fsharp-demo microsoft/dotnet:latest
 > mkdir helloworld
 

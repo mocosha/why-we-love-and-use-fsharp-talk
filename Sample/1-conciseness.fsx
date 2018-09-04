@@ -14,5 +14,5 @@ type Employee =
   | Manager of Employee list
 
 // type inference
-let jdoe = {First="John";Last="Doe"}
+let jdoe = {First="John"; Last="Doe"}
 let worker = Worker jdoe

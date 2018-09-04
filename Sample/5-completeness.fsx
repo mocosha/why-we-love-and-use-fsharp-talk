@@ -1,5 +1,6 @@
 // impure code when needed
 let mutable counter = 0
+counter <- 4
 
 // create C# compatible classes and interfaces
 type IEnumerator<'a> = 
@@ -9,7 +10,7 @@ type IEnumerator<'a> =
 // extension methods
 type System.Int32 with
     member this.IsEven = this % 2 = 0
-
+    
 let i=20
 if i.IsEven then printfn "'%i' is even" i
 	

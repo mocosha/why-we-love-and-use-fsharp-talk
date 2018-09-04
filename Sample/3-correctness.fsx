@@ -9,8 +9,9 @@ let personFullName person =
    //person properties can be used safely
    person.First + " " + person.Last
 
-// embed business logic into types
-emptyShoppingCart.remove   // compile error!
-
 // units of measure
+[<Measure>] type m
+[<Measure>] type ft
+
+5<m> + 2<m>
 let distance = 10<m> + 10<ft> // error!

@@ -8,6 +8,11 @@ printfn "Equal? %A"  (person1 = person2)
 use reader = new StreamReader(..)
 
 // easy composition of functions
-let add2times3 = (+) 2 >> (*) 3
+//let add2times3 = (+) 2 >> (*) 3
+//let result = add2times3 5
 
-let result = add2times3 5
+let add2 x = x + 2
+let mul3 x = x * 3
+let add2times3 = add2 >> mul3
+
+add2times3 5

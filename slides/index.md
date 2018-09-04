@@ -36,7 +36,12 @@ Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)
 *From The Pragmatic Programmer, Tip #8*  
 
 "Invest Regularly in Your Knowledge Portfolio":  
-Learn at least one new language every year. Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut. Additionally, learning many languages is far easier now, thanks to the wealth of freely available software on the Internet.  
+<br />    
+Learn at least one new language every year. 
+
+' Different languages solve the same problems in different ways. 
+' By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut.
+' Additionally, learning many languages is far easier now, thanks to the wealth of freely available software on the Internet.  
 
 ' The Pragmatic Programmer, From Journeyman to Master by Andrew Hunt and David Thomas 1999
 ' Ideas: Care About Your Craft, Don’t Live with Broken Windows, Use Tracer Bullets to Find the Target, Orthogonality
@@ -76,6 +81,8 @@ In English we start with "one", "two", but "three" can stretch out a bit and "se
 
 [Chinese (Mandarin) - Numbers (1-10)](
 https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
+
+' Language forms your way of thinking.
 
 ---
 

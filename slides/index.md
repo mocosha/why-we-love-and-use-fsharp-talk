@@ -22,8 +22,8 @@ Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)
 * Motivation: Should I learn a new programming language?
 * Why F#
  * The language itself is amazing
- * The library/framework
  * The tooling capabilities (IDE integration)
+ * The library/framework
  * Community (samples, 3rd-party libraries)
 * Questions?
 
@@ -82,14 +82,14 @@ In English we start with "one", "two", but "three" can stretch out a bit and "se
 [Chinese (Mandarin) - Numbers (1-10)](
 https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
 
-' Language forms your way of thinking.
-
 ---
 
 ### Learn, learn and learn
 
 <img src="images/Lenin_learn_poster.jpg" style="background: transparent; border-style: none;"  />
 
+' Language shapes your way of thinking.
+' The hypothesis of linguistic relativity holds that the structure of a language affects its speakers' world view or cognition.
 
 ***
 
@@ -118,14 +118,14 @@ https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
 
 ---
 
-### .NET Core
+### Let's start
 
-* [Download .NET Core SDK](https://www.microsoft.com/net/download)
-* Start hacking...
+* Basics 
  * F# interactive
  * FSX file(s)
 
-' .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
+' Why were the C# and F# REPLs removed and when/how will it implemented "as a separate tool"?
+' https://github.com/dotnet/cli/issues/3913
 
 ---
 
@@ -163,6 +163,21 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 ### Examples
 
 ***
+### Framework
+
+[Download .NET Core SDK](https://www.microsoft.com/net/download)
+
+* Cross-platform
+* Consistent across architecures
+* Command-line tools
+* Flexible deployment
+* Open source
+* Supported by Microsoft
+
+' https://docs.microsoft.com/en-us/dotnet/core/about
+' .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
+
+---
 
 ### Tooling
 
@@ -186,18 +201,16 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ---
 
-
 ### Demo checklist
 * F# interactive
-* FSX scripts
 * F# projects (.fsproj)
-* Basic syntax
+* Fable
 
 ***
 
 ### The F# community is great
 
-#### Resources 
+#### Where to start 
 * [F# Software Foundation](https://fsharp.org/)
 * [F# for fun and profit by Scott Wlaschin](https://fsharpforfunandprofit.com/) 
 * [F# style guide](http://aka.ms/fsharpstyleguide)

@@ -95,16 +95,15 @@ https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/numbers-1-10.html)
 
 ### What is F#
 
-* F# is a mature, open source, cross-platform, functional-first programming language
-  * Developed by Microsoft Research (Don Syme and his team)
-  * Based on OCaml, influenced by C# and Haskell
+F# is a mature, open source, cross-platform, functional-first programming language. It empowers users and organizations to tackle complex computing problems with simple, maintainable and robust code.
 <br>
 <br>  
-- History
-  * 2002: F# language design started
-  * 2005: F# 1.01 released to public
-  * 2010: F# is baked into VS 2010
-  * 2017: .NET Core includes F# support by default
+#### History
+* 2002: F# language design started <br />
+  (Developed by Microsoft Research, Don Syme and his team)
+* 2005: F# 1.01 released to public
+* 2010: F# is baked into VS 2010
+* 2017: .NET Core includes F# support by default
 
 ' F# is a functional programming language that makes it easy to write correct and maintainable code.
 
@@ -237,7 +236,7 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ### Thanks to
 * [F# for fun and profit by Scott Wlaschin](https://fsharpforfunandprofit.com/)
-* [Beginning F# 4.0 by Robert Pickering and Kit Eason](https://www.apress.com/gp/book/9781484213759)  
+* [F# Software Foundation](https://fsharp.org)
 * [How to (and not to) give a talk on F# by Ted Neward](http://blogs.tedneward.com/post/how-to-and-not-to-give-a-talk-on-f/)
 
 ' Thanks these guys for inspiring us

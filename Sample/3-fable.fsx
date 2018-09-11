@@ -1,5 +1,3 @@
-[Fable Mandelbroot demo](http://fable.io/repl/)
-
 module Program
 
 open Fable.Core

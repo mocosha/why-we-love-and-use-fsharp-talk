@@ -100,31 +100,15 @@ F# is a mature, open source, cross-platform, functional-first programming langua
 <br>  
 #### History
 * 2002: F# language design started <br />
-  (Developed by Microsoft Research, Don Syme and his team)
+  (Developed by Microsoft Research, Don Syme and his team, F is for "Fun")
 * 2005: F# 1.01 released to public
 * 2010: F# is baked into VS 2010
 * 2017: .NET Core includes F# support by default
 
+' The language was originally designed and implemented by Don Syme, according to whom in the fsharp team, they say the F is for "Fun".
 ' F# is a functional programming language that makes it easy to write correct and maintainable code.
 
 ' F# programming primarily involves defining types and functions that are type-inferred and generalized automatically. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming.
-
----
-
-### .NET Core SDK includes the F# compiler and F# core library
-
-<img src="images/NETCoreSDK_includes_the_Fsharp.png" style="background: transparent; border-style: none; float: right"  />
-
----
-
-### Let's start
-
-* Basics 
- * F# interactive
- * FSX file(s)
-
-' Why were the C# and F# REPLs removed and when/how will it implemented "as a separate tool"?
-' https://github.com/dotnet/cli/issues/3913
 
 ---
 
@@ -159,7 +143,15 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ---
 
-### Examples
+### Let's start
+
+* Basics 
+ * F# interactive
+ * FSX file(s)
+* 5C examples
+
+' Why were the C# and F# REPLs removed and when/how will it implemented "as a separate tool"?
+' https://github.com/dotnet/cli/issues/3913
 
 ***
 ### Framework
@@ -175,6 +167,12 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ' https://docs.microsoft.com/en-us/dotnet/core/about
 ' .NET Core is a cross-platform version of .NET for building websites, services, and console apps.
+
+---
+
+### .NET Core SDK includes the F# compiler and F# core library
+
+<img src="images/NETCoreSDK_includes_the_Fsharp.png" style="background: transparent; border-style: none; float: right"  />
 
 ---
 
@@ -200,10 +198,22 @@ F# is designed as a hybrid functional/OO language, so it can do virtually everyt
 
 ---
 
+### [Fable Mandelbroot](http://fable.io/repl/)
+
+<img src="images/fable-mandelbrot.png" width="75%" height="75%" style="background: transparent; border-style: none;"  />
+
+---
+
 ### Demo checklist
 * F# interactive
 * F# projects (.fsproj)
 * Fable
+
+---
+
+### The area it shines is?
+
+<img src="images/the_area_it_shines_is_programming.png" style="background: transparent; border-style: none;"  />
 
 ***
 

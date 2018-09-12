@@ -1,19 +1,19 @@
 - title : Why you should learn F#
 - description : Introduction to F#
-- author : Branimir Momčilović & Dragan Jovanović
+- author : Mocosha
 - theme : night
 - transition : default
 
 ***
 
 ## Why you should learn F#
+<br />
+<br />
+<br />
+<br />
+  
+ [Mocosha Inc](github.com/mocosha)  
 
-<br />
-<br />
-<br />
-<br />
-Branimir Momčilović - [@bramom](http://www.twitter.com/bramom)  
-Dragan Jovanović - [draganjovanovic1](https://github.com/draganjovanovic1)  
 
 ***
 

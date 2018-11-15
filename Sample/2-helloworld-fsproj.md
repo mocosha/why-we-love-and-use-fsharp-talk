@@ -34,7 +34,7 @@ Represents the standard input, output, and error streams for console application
 
 ' https://hub.docker.com/r/microsoft/dotnet/
 ' > docker run -it --name fsharp-demo microsoft/dotnet:latest
-> docker run -it --name fsharp-demo microsoft/dotnet:2.1.401-sdk
+> docker run -it --name fsharp-demo microsoft/dotnet:2.1.401-sdk 
 > mkdir helloworld
 
 > docker cp publish/. fsharp-demo:/helloworld
